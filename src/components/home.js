@@ -20,7 +20,7 @@ function Home() {
           <p>A senior software engineering student with a minor in web development. I'm excited about combining my academic knowledge with practical skills to create innovative experiences.</p>
           <div className='buttons'>
           <div className='topButtons'>
-            <p><a className="button" href='https://www.linkedin.com/in/marisa-miller-291113222/'>View LinkedIn</a></p>
+            <p><a className="button" href='https://www.linkedin.com/in/mamillergirl'>View LinkedIn</a></p>
             <p><a className="button" href='https://github.com/mamillergirl'>View GitHub</a></p>
           </div>
           <div className='bottomButton'>
