@@ -19,7 +19,7 @@ function Projects() {
             I led a hackathon project that resulted in a React-based platform designed for residents in our college town to access and save data from local grocery stores. As the originator of the concept, I handled the frontend development, serving as both the project manager and a proactive team member, overseeing task delegation and project planning. Taking charge of the app's design in Figma, I ensured its usability and visual appeal.
             </p>
             <p className='description'>
-            The web application, utilized web scraping to aggregate and showcase exclusive deals and discounts from nearby grocery stores. This platform aimed to simplify the process for shoppers, offering a centralized space to explore, save and access money-saving opportunities within their community.              </p>
+            The web application utilized web scraping to aggregate and showcase exclusive deals and discounts from nearby grocery stores. This platform aimed to simplify the process for shoppers, offering a centralized space to explore, save and access money-saving opportunities within their community.              </p>
             <div>
             <a  className='link button' href="https://github.com/Ellaluvscheese/RexburgSuperSaver">View Repository</a>
             </div>
@@ -33,7 +33,7 @@ function Projects() {
 
             Our class project aimed to simplify the process of carpooling for students by creating a dedicated ride board app, addressing the shortcomings of using Facebook for such purposes. Recognizing the confusion and complexity of navigating Facebook for carpooling, especially in an area lacking alternative options, our team developed a user-friendly platform.            </p>
             <p className='description'>
-            As a team member, my contributions included establishing the database infrastructure with Firebase Firestore and working on the frontend of the app with React Native. The app provided students with a more efficient way to organize rides and share transportation, offering a simpler and more tailored solution compared to the challenges posed by using Facebook for this purpose.                 </p>
+            As a team member, my contributions included establishing the database infrastructure with Firebase Firestore and working on the frontend of the app with React Native. The app was created to make a more efficient way to organize rides and share transportation, offering a simpler and more tailored solution compared to the challenges posed by using Facebook for this purpose.                 </p>
             <div>
             <a  className='link button' href="https://github.com/HuairaNimrod/I-ride">View Repository</a>
             </div>

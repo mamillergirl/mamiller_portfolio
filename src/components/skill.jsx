@@ -14,7 +14,7 @@ const Skill = ({ name, imageUrl, description, experience }) => {
   return (
     <div className='skill' onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>
       <img src={imageUrl} alt={name} />
-      <p>{name}</p>
+      <h4>{name}</h4>
       {showDescription && (
         <div className='skillDescription'>
           <p>{description}</p>

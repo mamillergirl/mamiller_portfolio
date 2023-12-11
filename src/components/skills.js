@@ -34,7 +34,7 @@ function Skills() {
         />
         <Skill
         name='React Native'
-        imageUrl='https://solidstudio.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Flofvu8al%2Fproduction%2Faabfcf1734f9e1e4379f4f80042bdf11e2e57dbf-420x308.png&w=1080&q=75'
+        imageUrl='https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png'
         description='Self-learned React Native, applied in various personal projects for practical experience.'
         experience= 'Personal'
         />
@@ -77,7 +77,7 @@ function Skills() {
          <Skill
         name='C#'
         imageUrl='https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png'
-        description='Acquired C# skills in school for game development, later utilized professionally in API development during my internship.'
+        description='Acquired C# skills in school for game development, later utilized professionally in API development.'
         experience= 'Professional, Educational'
         />
         <Skill
@@ -101,7 +101,7 @@ function Skills() {
         <Skill
         name='Git'
         imageUrl='https://avatars.githubusercontent.com/u/18133?s=280&v=4'
-        description='Employed Git for version control across almost every project I have worked on, integrating with GitHub and Azure for collaboration and deployment.'
+        description='Employed Git for version control across many projects, integrating with GitHub and Azure for collaboration and deployment.'
         experience= 'Professional, Educational, Personal'
         />
           
