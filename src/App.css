@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&Archivo:wght@900&family=League+Spartan:wght@800&family=Open+Sans&display=swap');
+
+body {
+  font-family: 'Open Sans', serif;
+  background-color: #f2f2f2;
+  font-size: 16px;
+}
+
+.personalPicture {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: 20px;
+  box-shadow: 0px 0px 5px #8543e0;
+}
+.personalPicture img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.rightSection {
+  width: 40%;
+}
+
+.homeContent {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.rightSection {
+  padding-left: 50px;
+}
+
+.button {
+  font-family: 'Open Sans', serif;
+  font-size: 14px;
+}
+.topButtons {
+  display: flex;
+}
+
+
+.button {
+  text-decoration: none;
+  border: 2px solid #502586;
+  color: #502586;
+  background-color: #f2f2f2;
+  border-radius: 12px;
+  padding: 7px 15px ;
+  margin-right: 5px;
+  width: 150px;
+}
+.topButtons .button:hover {
+  background-color: #dadae8;
+  
+}
+
+.bottomButton .button {
+  border: 2px solid #502586;
+  width: 300px;
+  color: #f2f2f2;
+  background-color: #502586;
+  border-radius: 12px;
+  padding: 7px 30px ;
+}
+
+.bottomButton .button:hover {
+  background-color: #6A30B0;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  border-bottom: 1px solid #4C86A8;
+}
+
+h2, h1 {
+  font-family: 'Oswald', sans-serif;
+  color: #4C86A8;
+}
+
+.pages a{
+  padding: 15px;
+  text-decoration: none;
+  color: #343F3E
+}
+.pages a:hover{
+  color: #536563;
+}
+.summary {
+  width: 60%;
+  padding: 20px;
+}
+.nameLogo {
+  color: #502586;
+  font-family: 'Oswald', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.title {
+  color:  #4C86A8;
+  font-family: 'Oswald', sans-serif;
+}
+
+.projects img {
+  width: 700px;
+  object-fit: contain;
+}
+.projects {
+  margin: 0 auto;
+}
+
+.project {
+  display: flex;
+  justify-content: space-between;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 30px;
+  border-bottom: 1px solid #502586;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.description {
+  max-width: 80%;
+}
+
+.link {
+  padding-right: 20px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+}
+
+.aboutPicture {
+  max-width: 400px;
+  padding: 20px;
+  padding-top: 125px;
+}
+
+.about {
+  display: flex;
+  flex-direction: row;
+}
+
+
+
+#skillsSection {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.skillsSection {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  
+}
+
+.skill {
+  padding: 25px;
+  text-align: center;
+}
+
+.skillDescription {
+  text-align: center;
+}
+.skill {
+  position: relative;
+  overflow: hidden;
+  width: 175px; /* Adjust container width as needed */
+  height: 175px; /* Adjust container height as needed */
+  margin: 10px;
+}
+
+.skill img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* Ensure image fits inside the container */
+  transition: transform 0.3s ease-out;
+}
+
+.skill p {
+  margin: 0;
+}
+
+.skill p:first-child {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  margin: 0;
+  padding: 8px;
+  color: #fff;
+  transition: bottom 0.3s ease-out;
+}
+
+.skill .skillDescription {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 8px;
+  color: #fff;
+  transform: translateY(100%);
+  transition: transform 0.3s ease-out;
+}
+
+.skill:hover .skillDescription {
+  transform: translateY(0);
+}
+
+.skill:hover img {
+  transform: scale(1.1);
+}
+
+.skill:hover p:first-child {
+  bottom: 100%;
+}
+
+footer {
+  border-top: 1px solid #4C86A8;
+  margin-top: 20px;
+  padding-left: 50px
+}
+
+
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-content p {
+  margin: 0;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+.footer-links li {
+  margin-right: 20px;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: #343F3E;
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: #536563;
+}
+
+.copyright {
+  color: #4C86A8;
+}
