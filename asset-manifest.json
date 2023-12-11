@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mamiller_portfolio/static/css/main.72bc7f05.css",
-    "main.js": "/mamiller_portfolio/static/js/main.6d5670bc.js",
+    "main.js": "/mamiller_portfolio/static/js/main.0559532d.js",
     "static/js/787.071eb048.chunk.js": "/mamiller_portfolio/static/js/787.071eb048.chunk.js",
     "static/media/about_picture.png": "/mamiller_portfolio/static/media/about_picture.83e2bb776b92bcdb0a67.png",
     "static/media/supersaver.png": "/mamiller_portfolio/static/media/supersaver.930df569c050ad38e32c.png",
@@ -12,11 +12,11 @@
     "static/media/marisa_miller_resume_updated.pdf": "/mamiller_portfolio/static/media/marisa_miller_resume_updated.1eb36f80683d9be7358d.pdf",
     "index.html": "/mamiller_portfolio/index.html",
     "main.72bc7f05.css.map": "/mamiller_portfolio/static/css/main.72bc7f05.css.map",
-    "main.6d5670bc.js.map": "/mamiller_portfolio/static/js/main.6d5670bc.js.map",
+    "main.0559532d.js.map": "/mamiller_portfolio/static/js/main.0559532d.js.map",
     "787.071eb048.chunk.js.map": "/mamiller_portfolio/static/js/787.071eb048.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72bc7f05.css",
-    "static/js/main.6d5670bc.js"
+    "static/js/main.0559532d.js"
   ]
 }
