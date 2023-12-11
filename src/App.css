@@ -3,8 +3,9 @@
 body {
   font-family: 'Open Sans', serif;
   background-color: #f2f2f2;
-  font-size: 16px;
+  font-size: 13px; /* Font size reduced for 80% zoom */
 }
+
 
 .personalPicture {
   width: 200px;
@@ -76,7 +77,7 @@ body {
   justify-content: space-between;
   padding: 15px;
   font-family: 'Oswald', sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   border-bottom: 1px solid #4C86A8;
 }
 
@@ -110,7 +111,7 @@ h2, h1 {
 }
 
 .projects img {
-  width: 700px;
+  width: 500px;
   object-fit: contain;
 }
 .projects {
@@ -180,8 +181,8 @@ h2, h1 {
 .skill {
   position: relative;
   overflow: hidden;
-  width: 175px; /* Adjust container width as needed */
-  height: 175px; /* Adjust container height as needed */
+  width: 125px; /* Adjust container width as needed */
+  height: 125px; /* Adjust container height as needed */
   margin: 10px;
 }
 
