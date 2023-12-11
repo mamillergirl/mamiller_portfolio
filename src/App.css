@@ -55,7 +55,7 @@ body {
   margin-right: 5px;
   width: 150px;
 }
-.topButtons .button:hover {
+.button:hover {
   background-color: #dadae8;
   
 }
@@ -354,7 +354,7 @@ footer {
   }
 
   .skillDescription p {
-    font-size: 10px;
+    font-size: 11.5px;
   }
 
   .project {
