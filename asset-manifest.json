@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mamiller_portfolio/static/css/main.844c6b1b.css",
-    "main.js": "/mamiller_portfolio/static/js/main.0559532d.js",
+    "main.css": "/mamiller_portfolio/static/css/main.8b01faae.css",
+    "main.js": "/mamiller_portfolio/static/js/main.c4b97fbb.js",
     "static/js/787.071eb048.chunk.js": "/mamiller_portfolio/static/js/787.071eb048.chunk.js",
     "static/media/about_picture.png": "/mamiller_portfolio/static/media/about_picture.83e2bb776b92bcdb0a67.png",
     "static/media/supersaver.png": "/mamiller_portfolio/static/media/supersaver.930df569c050ad38e32c.png",
@@ -9,14 +9,14 @@
     "static/media/marisa_miller.png": "/mamiller_portfolio/static/media/marisa_miller.a1436688b2877a9e208f.png",
     "static/media/iride.png": "/mamiller_portfolio/static/media/iride.8a810f19e56026e8fa58.png",
     "static/media/webscraper.png": "/mamiller_portfolio/static/media/webscraper.0a0a7b112ea71a88d7fa.png",
-    "static/media/marisa_miller_resume_updated.pdf": "/mamiller_portfolio/static/media/marisa_miller_resume_updated.1eb36f80683d9be7358d.pdf",
+    "static/media/marisa_miller_resume_updated.pdf": "/mamiller_portfolio/static/media/marisa_miller_resume_updated.f0dc14684a61853aedd2.pdf",
     "index.html": "/mamiller_portfolio/index.html",
-    "main.844c6b1b.css.map": "/mamiller_portfolio/static/css/main.844c6b1b.css.map",
-    "main.0559532d.js.map": "/mamiller_portfolio/static/js/main.0559532d.js.map",
+    "main.8b01faae.css.map": "/mamiller_portfolio/static/css/main.8b01faae.css.map",
+    "main.c4b97fbb.js.map": "/mamiller_portfolio/static/js/main.c4b97fbb.js.map",
     "787.071eb048.chunk.js.map": "/mamiller_portfolio/static/js/787.071eb048.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.844c6b1b.css",
-    "static/js/main.0559532d.js"
+    "static/css/main.8b01faae.css",
+    "static/js/main.c4b97fbb.js"
   ]
 }
