@@ -68,7 +68,7 @@ function Projects() {
           <h2>Realty Web Scraper App</h2>
           <p className='description'>
           
-          I contributed significantly to a web scraping platform developed in data science society in collaboration with Sotheby's Realty, aimed at ensuring consistency in property prices across various online platforms.</p>
+          I contributed to a web scraping platform developed in data science society in collaboration with Sotheby's Realty, aimed at ensuring consistency in property prices across various online platforms.</p>
           <div>
          
           <a className='link button' href="https://github.com/BYUIDSS/DSS_F22_InternationalRealty">View Repository</a>
