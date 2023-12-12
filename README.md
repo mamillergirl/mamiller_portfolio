@@ -1,6 +1,5 @@
 # Portfolio Site
 
-This portfolio site is built using React and React Router to showcase my projects, skills, and experience.
 
 **Live Portfolio Site:** [mamiller_portfolio](https://mamillergirl.github.io/mamiller_portfolio)
 
