@@ -5,6 +5,7 @@ import cookboost from '../cookboost.png';
 import supersaver from "../supersaver.png"
 import iride from "../iride.png"
 import webscraper from '../webscraper.png'
+import flickfavs from '../flick-favs.png'
 
 function Projects() {
   return (
@@ -76,6 +77,21 @@ function Projects() {
          
           </div>
           <img src={webscraper} alt='webscraper'/>
+          </div>
+          <div className='project'>
+          <div className='info'>
+          <h2>Flick Favs | Movie Web App </h2>
+          <p className='description'>
+          
+          Our team, comprised of five individuals, collaborated on developing a Movie Explorer Web App using Svelte, Vite, local storage, and Supabase. As the project manager, I oversaw task planning and execution while actively contributing to the development process. Leveraging the Open Movie Database (OMDb) API, our app empowers users to explore, save favorites, and curate watchlists, showcasing our dedication to creating an immersive and user-friendly movie exploration platform.
+          </p>
+          <div>
+         
+          <a className='link button' href="https://github.com/mamillergirl/flick-favs">View Repository</a>
+          </div>
+         
+          </div>
+          <img src={flickfavs} alt='flick fav screenshot'/>
           </div>
        </div>
 
