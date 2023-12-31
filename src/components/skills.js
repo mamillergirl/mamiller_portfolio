@@ -106,7 +106,12 @@ function Skills() {
         description='Utilized Figma for hackathon project design and in a user experience design and research class.'
         experience= 'Educational, Personal'
         />
-       
+       <Skill
+        name='Angular'
+        imageUrl='https://raw.githubusercontent.com/rmolinamir/typescript-cheatsheet/master/TypeScript.png'
+        description='Self taught Angular to make web apps.'
+        experience='Personal'
+        />
         
           
         </section>
