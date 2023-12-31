@@ -43,6 +43,17 @@ function Projects() {
           </div>
           <div className='project'>
             <div className='info'>
+            <h2>TaskMaster REST API</h2>
+            <p className='description'>
+            Developed a comprehensive Task Master application utilizing a Node.js Express API seamlessly integrated with MongoDB, facilitating efficient CRUD operations for task, user, and team management while integrating Google OAuth for secure authentication. Completed within a web services class. </p>
+            <div>
+            <a className='link button' href="https://taskmaster-oq75.onrender.com/api-docs/">View Project</a>
+            <a className='link button' href="https://github.com/mamillergirl/taskmaster/">View Repository</a>
+            </div>
+            </div>
+          </div>
+          <div className='project'>
+            <div className='info'>
             <h2>Book REST API</h2>
             <p className='description'>
             Implemented a Node.js Express API integrated with MongoDB, enabling seamless CRUD operations for managing books and authors. Developed as part of a web services class, this project showcases proficiency in backend development and database management for scalable web applications. </p>

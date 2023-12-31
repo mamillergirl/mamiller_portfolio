@@ -108,7 +108,7 @@ function Skills() {
         />
        <Skill
         name='Angular'
-        imageUrl='https://raw.githubusercontent.com/rmolinamir/typescript-cheatsheet/master/TypeScript.png'
+        imageUrl='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png'
         description='Self taught Angular to make web apps.'
         experience='Personal'
         />
