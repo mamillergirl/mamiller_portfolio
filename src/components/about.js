@@ -41,8 +41,11 @@ Thank you for visiting my portfolio. I'm excited to connect with like-minded ind
         <div>
        
         </div>
-       
+        <h2>Contact</h2>
+        <h4>Email: <span className='bold'>mamillergirl@gmail.com</span></h4>
       </div>
+
+      
       </div>
       <Footer/>
     </div>

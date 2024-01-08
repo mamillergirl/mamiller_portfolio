@@ -4,7 +4,7 @@ function Footer() {
 
      <footer>
      <div className="footer">
-       <p className="copyright">© 2023 Marisa Miller's Portfolio</p>
+       <p className="copyright">© 2024 Marisa Miller's Portfolio</p>
        <ul className="footer-links">
         <li><Link to='/'>Home</Link>            </li>
         <li><Link to='/about'>About</Link>  </li>

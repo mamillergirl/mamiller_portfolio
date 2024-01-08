@@ -15,7 +15,9 @@ function Header() {
         Marisa Miller
       </div>
       <div className={`menu-toggle ${isMenuOpen ? 'open' : ''}`} onClick={handleMenuClick}>
-      &#9776;
+      <span></span>
+      <span></span>
+      <span></span>
       </div>
       <div className={`pages ${isMenuOpen ? 'show-menu' : ''}`}>
         <Link to='/' onClick={handleMenuClick}>Home</Link>
