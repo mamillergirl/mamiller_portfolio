@@ -22,7 +22,9 @@ function Projects() {
             <p className='description'>
             The web application utilized web scraping to aggregate and showcase exclusive deals and discounts from nearby grocery stores. This platform aimed to simplify the process for shoppers, offering a centralized space to explore, save and access money-saving opportunities within their community.              </p>
             <div>
-            <a  className='link button' href="https://github.com/Ellaluvscheese/RexburgSuperSaver">View Repository</a>
+            <a  className='link button' href="https://mamillergirl.github.io/rexburg-super-saver-ui-demo/">View Project Demo</a>
+            
+            <a  className='link button' href="https://github.com/mamillergirl/RexburgSuperSaver">View Repository</a>
             </div>
             </div>
             <img src={supersaver} alt='rexburg supersaver screenshot'/>
