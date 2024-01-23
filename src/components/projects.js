@@ -22,9 +22,9 @@ function Projects() {
             <p className='description'>
             The web application utilized web scraping to aggregate and showcase exclusive deals and discounts from nearby grocery stores. This platform aimed to simplify the process for shoppers, offering a centralized space to explore, save and access money-saving opportunities within their community.              </p>
             <div>
-            <a  className='link button' href="https://mamillergirl.github.io/rexburg-super-saver-ui-demo/">View Project Demo</a>
+            <a  className='link button' href="https://mamillergirl.github.io/rexburg-super-saver-ui-demo/">Live Demo</a>
             
-            <a  className='link button' href="https://github.com/mamillergirl/RexburgSuperSaver">View Repository</a>
+            <a  className='link button' href="https://github.com/mamillergirl/RexburgSuperSaver">Source Code</a>
             </div>
             </div>
             <img src={supersaver} alt='rexburg supersaver screenshot'/>
@@ -38,7 +38,7 @@ function Projects() {
             <p className='description'>
             As a team member, my contributions included establishing the database infrastructure with Firebase Firestore and working on the frontend of the app with React Native. The app was created to make a more efficient way to organize rides and share transportation, offering a simpler and more tailored solution compared to the challenges posed by using Facebook for this purpose.                 </p>
             <div>
-            <a  className='link button' href="https://github.com/HuairaNimrod/I-ride">View Repository</a>
+            <a  className='link button' href="https://github.com/HuairaNimrod/I-ride">Source Code</a>
             </div>
             </div>
             <img src={iride} alt='iride screenshot'/>
@@ -49,8 +49,8 @@ function Projects() {
             <p className='description'>
             Developed a comprehensive Task Master application utilizing a Node.js Express API seamlessly integrated with MongoDB, facilitating efficient CRUD operations for task, user, and team management while integrating Google OAuth for secure authentication. Completed within a web services class. </p>
             <div>
-            <a className='link button' href="https://taskmaster-oq75.onrender.com/api-docs/">View Project</a>
-            <a className='link button' href="https://github.com/mamillergirl/taskmaster/">View Repository</a>
+            <a className='link button' href="https://taskmaster-oq75.onrender.com/api-docs/">Live</a>
+            <a className='link button' href="https://github.com/mamillergirl/taskmaster/">Source Code</a>
             </div>
             </div>
           </div>
@@ -60,8 +60,8 @@ function Projects() {
             <p className='description'>
             Implemented a Node.js Express API integrated with MongoDB, enabling seamless CRUD operations for managing books and authors. Developed as part of a web services class, this project showcases proficiency in backend development and database management for scalable web applications. </p>
             <div>
-            <a className='link button' href="https://cse341-books.onrender.com/api-docs/">View Project</a>
-            <a className='link button' href="https://github.com/mamillergirl/cse341-books">View Repository</a>
+            <a className='link button' href="https://cse341-books.onrender.com/api-docs/">Live</a>
+            <a className='link button' href="https://github.com/mamillergirl/cse341-books">Source Code</a>
             </div>
             </div>
           </div>
@@ -71,8 +71,8 @@ function Projects() {
           <p className='description'>
           Cookboost marks my debut project in React - a web application designed to gather user-input ingredients and generate corresponding recipe cards. Leveraging the Edamam Recipe Search API, it retrieves recipes based on user-provided ingredients and incorporates features like saving recipes using Local Storage.</p>
           <div>
-          <a className="link button" href= "https://mamillergirl.github.io/cookboost/" >View Project Demo</a>
-          <a  className='link button' href="https://github.com/mamillergirl/cookboost">View Repository</a>
+          <a className="link button" href= "https://mamillergirl.github.io/cookboost/" >Live Demo</a>
+          <a  className='link button' href="https://github.com/mamillergirl/cookboost">Source Code</a>
           </div>
           </div>
           <img src={cookboost} alt='cook boost screenshot'/>
@@ -85,7 +85,7 @@ function Projects() {
           I contributed to a web scraping platform developed in data science society in collaboration with Sotheby's Realty, aimed at ensuring consistency in property prices across various online platforms.</p>
           <div>
          
-          <a className='link button' href="https://github.com/BYUIDSS/DSS_F22_InternationalRealty">View Repository</a>
+          <a className='link button' href="https://github.com/BYUIDSS/DSS_F22_InternationalRealty">Source Code</a>
           </div>
          
           </div>
@@ -99,8 +99,8 @@ function Projects() {
           Our team, comprised of five individuals, collaborated on developing a Movie Explorer Web App using Svelte, Vite, local storage, and Supabase. As the project manager, I oversaw task planning and execution while actively contributing to the development process. Leveraging the Open Movie Database (OMDb) API, our app empowers users to explore, save favorites, and curate watchlists, showcasing our dedication to creating an immersive and user-friendly movie exploration platform.
           </p>
           <div>
-         
-          <a className='link button' href="https://github.com/mamillergirl/flick-favs">View Repository</a>
+        
+          <a className='link button' href="https://github.com/mamillergirl/flick-favs">Source Code</a>
           </div>
          
           </div>
